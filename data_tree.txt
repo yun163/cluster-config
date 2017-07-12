@@ -1,0 +1,7 @@
+/opt/data/
+└── dfs
+    ├── data
+    ├── name
+    │   ├── current    
+    └── namesecondary
+        ├── current
